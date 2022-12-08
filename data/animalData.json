@@ -2,7 +2,7 @@
   "first_name": "Billy",
   "last_name": "Goat",
   "animal": "goat",
-  "age":  21,
+  "age1":  21,
   "gender": "M",
   "location": {
     "description": "Melbourne Zoo",
